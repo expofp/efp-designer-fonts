@@ -1,0 +1,95 @@
+{
+    "Arial": [
+        "Arial-Bold.woff",
+        "Arial-BoldItalic.woff",
+        "Arial-Italic.woff",
+        "Arial.woff"
+    ],
+    "DroidSerif": [
+        "DroidSerif-Bold.woff",
+        "DroidSerif-BoldItalic.woff",
+        "DroidSerif-Italic.woff",
+        "DroidSerif.woff"
+    ],
+    "Exo2.0": [
+        "Exo20-Bold.woff",
+        "Exo20-BoldItalic.woff",
+        "Exo20-Italic.woff",
+        "Exo20-Light.woff",
+        "Exo20-LightItalic.woff",
+        "Exo20-Regular.woff"
+    ],
+    "Georgia": [
+        "Georgia-Bold.woff",
+        "Georgia-BoldItalic.woff",
+        "Georgia-Italic.woff",
+        "Georgia.woff"
+    ],
+    "Impact": [
+        "Impact.woff"
+    ],
+	"Inter": [
+		"Inter-Bold.otf",
+        "Inter-BoldItalic.otf",
+        "Inter-Italic.otf",
+        "Inter-Light.otf",
+        "Inter-LightItalic.otf",
+        "Inter-Regular.otf"
+	],
+    "Montserrat": [
+        "Montserrat-Bold.ttf",
+        "Montserrat-BoldItalic.ttf",
+        "Montserrat-Italic.ttf",
+        "Montserrat-Light.ttf",
+        "Montserrat-LightItalic.ttf",
+        "Montserrat-Regular.ttf"
+    ],
+    "OpenSans": [
+        "OpenSans-Bold.woff",
+        "OpenSans-BoldItalic.woff",
+        "OpenSans-Italic.woff",
+        "OpenSans-Light.woff",
+        "OpenSans-LightItalic.woff",
+        "OpenSans-Regular.woff"
+    ],
+    "Oswald": [
+        "Oswald-Bold.woff",
+        "Oswald-ExtraLight.woff",
+        "Oswald-Light.woff",
+        "Oswald-Medium.woff",
+        "Oswald-Regular.woff",
+        "Oswald-SemiBold.woff"
+    ],
+    "Roboto": [
+        "Roboto-Bold.woff",
+        "Roboto-BoldItalic.woff",
+        "Roboto-Italic.woff",
+        "Roboto-Light.woff",
+        "Roboto-LightItalic.woff",
+        "Roboto-Regular.woff"
+    ],
+    "SegoeUI": [
+        "SegoeUI-Bold.woff",
+        "SegoeUI-BoldItalic.woff",
+        "SegoeUI-Italic.woff",
+        "SegoeUI-Light.woff",
+        "SegoeUI.woff"
+    ],
+    "Ubuntu": [
+        "Ubuntu-Bold.woff",
+        "Ubuntu-BoldItalic.woff",
+        "Ubuntu-Italic.woff",
+        "Ubuntu-Light.woff",
+        "Ubuntu-LightItalic.woff",
+        "Ubuntu-Regular.woff"
+    ],
+    "Verdana": [
+        "Verdana-Bold.woff",
+        "Verdana-BoldItalic.woff",
+        "Verdana-Italic.woff",
+        "Verdana.woff"
+    ],
+    "BankGothic": [
+        "BankGothic-Bold.woff"
+    ]
+}
