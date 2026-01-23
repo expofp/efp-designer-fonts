@@ -37,12 +37,16 @@
         "Inter-Regular.otf"
 	],
     "Montserrat": [
-        "Montserrat-Bold.ttf",
-        "Montserrat-BoldItalic.ttf",
-        "Montserrat-Italic.ttf",
-        "Montserrat-Light.ttf",
-        "Montserrat-LightItalic.ttf",
-        "Montserrat-Regular.ttf"
+        "Montserrat-100.ttf",
+        "Montserrat-200.ttf",
+        "Montserrat-300.ttf",
+		"Montserrat-400.ttf",
+        "Montserrat-500.ttf",
+        "Montserrat-600.ttf",
+		"Montserrat-700.ttf",
+        "Montserrat-800.ttf",
+        "Montserrat-900.ttf",
+        
     ],
     "OpenSans": [
         "OpenSans-Bold.woff",
